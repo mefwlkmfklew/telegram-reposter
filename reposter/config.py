@@ -4,10 +4,10 @@ from pathlib import Path
 # -------------------------- Telegram --------------------------
 
 # https://my.telegram.org
-API_ID = 1234567
-API_HASH = 'asdkapdokapodkapokdaposd'
-PHONE = '+79876543212'
-# Your tg channel. Example: https://t.me/contest
+API_ID = 167221
+API_HASH = 'd5b7611fbfe69992793d5652446c0e95'
+PHONE = '+380960699699'
+# Your tg channel. Example: https://t.me/povestkin_kr
 CHANNEL = 'contest'
 
 # -------------------------- Вконтакте --------------------------
@@ -18,10 +18,10 @@ VK_GROUP_ID = 123456789
 
 # -------------------------- Instagram --------------------------
 
-REPOST_INST = False
-PROXY = ''
-INST_LOGIN = ''
-INST_PASSWORD = ''
+REPOST_INST = True
+PROXY = '192.177.161.145:64112:E8w3dfDk:5WhCCFFu'
+INST_LOGIN = 'povestki.kr'
+INST_PASSWORD = 'Boss2329d'
 
 # -------------------------- Не разбираешься - не трогай! --------------------------
 
